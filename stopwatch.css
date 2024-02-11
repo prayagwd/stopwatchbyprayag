@@ -1,0 +1,37 @@
+body{
+    background:cornflowerblue;
+    font-family: 'Courier Prime', monospace;
+    color:red;
+    background-image: url(https://jojo-news.com/wp-content/uploads/2022/01/DIOs-The-World-1024x576.png);
+    
+   
+}
+.stopwatch{
+    width: 90%;
+    max-width: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.8)rgba(0,0,0,0.8));
+    background-image:url(https://static.vecteezy.com/system/resources/previews/011/208/814/original/technology-background-analog-clock-time-vector.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 40px ;
+    margin: 200px auto 0;
+    box-shadow: 0 10px rgba(0,0,0,0.8);
+    border-radius: 20%;
+    
+}
+.stopwatch h1{
+    margin-top:60px;
+    font: size 64px;;
+    font: weight 300px;;
+}
+.buttons{
+    display: flex;
+    justify-items:center ;
+    align-items: center;
+}
+.buttons img {
+    width: 80px;
+    margin: 20px;
+    cursor:pointer;
+
+}
